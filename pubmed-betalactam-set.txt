@@ -1,1031 +1,837 @@
-PMID- 26960341
+PMID- 30959050
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20170906
-LR  - 20190911
-IS  - 1873-5592 (Electronic)
-IS  - 1389-4501 (Print)
-IS  - 1389-4501 (Linking)
-VI  - 17
-IP  - 9
-DP  - 2016
-TI  - Structural and Functional Aspects of Class A Carbapenemases.
-PG  - 1006-28
-AB  - The fight against infectious diseases is probably one of the greatest public health 
-      challenges faced by our society, especially with the emergence of 
-      carbapenem-resistant gram-negatives that are in some cases pan-drug resistant. 
-      Currently,β-lactamase-mediated resistance does not spare even the newest and most 
-      powerful β-lactams (carbapenems), whose activity is challenged by carbapenemases. 
-      The worldwide dissemination of carbapenemases in gram-negative organisms threatens 
-      to take medicine back into the pre-antibiotic era since the mortality associated 
-      with infections caused by these "superbugs" is very high, due to limited treatment 
-      options. Clinically-relevant carbapenemases belong either to metallo-β- lactamases 
-      (MBLs) of Ambler class B or to serine-β-lactamases (SBLs) of Ambler class A and D 
-      enzymes. Class A carbapenemases may be chromosomally-encoded (SME, NmcA, SFC-1, 
-      BIC-1, PenA, FPH-1, SHV-38), plasmid-encoded (KPC, GES, FRI-1) or both (IMI). The 
-      plasmid-encoded enzymes are often associated with mobile elements responsible for 
-      their mobilization. These enzymes, even though weakly related in terms of sequence 
-      identities, share structural features and a common mechanism of action. They 
-      variably hydrolyse penicillins, cephalosporins, monobactams, carbapenems, and are 
-      inhibited by clavulanate and tazobactam. Three-dimensional structures of class A 
-      carbapenemases, in the apo form or in complex with substrates/inhibitors, together 
-      with site-directed mutagenesis studies, provide essential input for identifying the 
-      structural factors and subtle conformational changes that influence the hydrolytic 
-      profile and inhibition of these enzymes. Overall, these data represent the building 
-      blocks for understanding the structure-function relationships that define the 
-      phenotypes of class A carbapenemases and can guide the design of new molecules of 
-      therapeutic interest.
-FAU - Naas, Thierry
-AU  - Naas T
-AD  - Service de Bactériologie- Hygiène, Hôpital de Bicêtre, APHP, EA7361, Faculté de 
-      Médecine Paris- Sud, LabEx LERMIT, Le Kremlin-Bicêtre, France. 
-      thierry.naas@bct.aphp.fr.
-FAU - Dortet, Laurent
-AU  - Dortet L
-FAU - Iorga, Bogdan I
-AU  - Iorga BI
+DCOM- 20200610
+LR  - 20220216
+IS  - 1089-8638 (Electronic)
+IS  - 0022-2836 (Print)
+IS  - 0022-2836 (Linking)
+VI  - 431
+IP  - 18
+DP  - 2019 Aug 23
+TI  - β-Lactamases and β-Lactamase Inhibitors in the 21st Century.
+PG  - 3472-3500
+LID - S0022-2836(19)30182-2 [pii]
+LID - 10.1016/j.jmb.2019.04.002 [doi]
+AB  - The β-lactams retain a central place in the antibacterial armamentarium. In 
+      Gram-negative bacteria, β-lactamase enzymes that hydrolyze the amide bond of the 
+      four-membered β-lactam ring are the primary resistance mechanism, with multiple 
+      enzymes disseminating on mobile genetic elements across opportunistic pathogens such 
+      as Enterobacteriaceae (e.g., Escherichia coli) and non-fermenting organisms (e.g., 
+      Pseudomonas aeruginosa). β-Lactamases divide into four classes; the active-site 
+      serine β-lactamases (classes A, C and D) and the zinc-dependent or 
+      metallo-β-lactamases (MBLs; class B). Here we review recent advances in mechanistic 
+      understanding of each class, focusing upon how growing numbers of crystal 
+      structures, in particular for β-lactam complexes, and methods such as neutron 
+      diffraction and molecular simulations, have improved understanding of the 
+      biochemistry of β-lactam breakdown. A second focus is β-lactamase interactions with 
+      carbapenems, as carbapenem-resistant bacteria are of grave clinical concern and 
+      carbapenem-hydrolyzing enzymes such as KPC (class A) NDM (class B) and OXA-48 (class 
+      D) are proliferating worldwide. An overview is provided of the changing landscape of 
+      β-lactamase inhibitors, exemplified by the introduction to the clinic of 
+      combinations of β-lactams with diazabicyclooctanone and cyclic boronate serine 
+      β-lactamase inhibitors, and of progress and strategies toward clinically useful MBL 
+      inhibitors. Despite the long history of β-lactamase research, we contend that issues 
+      including continuing unresolved questions around mechanism; opportunities afforded 
+      by new technologies such as serial femtosecond crystallography; the need for new 
+      inhibitors, particularly for MBLs; the likely impact of new β-lactam:inhibitor 
+      combinations and the continuing clinical importance of β-lactams mean that this 
+      remains a rewarding research area.
+CI  - Copyright © 2019 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Tooke, Catherine L
+AU  - Tooke CL
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Hinchliffe, Philip
+AU  - Hinchliffe P
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Bragginton, Eilis C
+AU  - Bragginton EC
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Colenso, Charlotte K
+AU  - Colenso CK
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Hirvonen, Viivi H A
+AU  - Hirvonen VHA
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Takebayashi, Yuiko
+AU  - Takebayashi Y
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom.
+FAU - Spencer, James
+AU  - Spencer J
+AD  - School of Cellular and Molecular Medicine, University of Bristol Biomedical Sciences 
+      Building, University Walk, Bristol BS8 1TD, United Kingdom. Electronic address: 
+      Jim.Spencer@bristol.ac.uk.
+LA  - eng
+GR  - R01 AI100560/AI/NIAID NIH HHS/United States
+GR  - BB/J014400/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - MR/N0137941/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20190405
+TA  - J Mol Biol
+JT  - Journal of molecular biology
+JID - 2985088R
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Carbapenems)
+RN  - 0 (Drug Combinations)
+RN  - 0 (beta-Lactamase Inhibitors)
+RN  - 0 (beta-Lactams)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+SB  - IM
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Carbapenem-Resistant Enterobacteriaceae
+MH  - Carbapenems/chemistry/metabolism
+MH  - Catalytic Domain
+MH  - Drug Combinations
+MH  - Drug Resistance, Bacterial/genetics
+MH  - Enterobacteriaceae/drug effects
+MH  - Gram-Negative Bacteria/drug effects/enzymology/genetics/metabolism
+MH  - Humans
+MH  - Interspersed Repetitive Sequences
+MH  - beta-Lactamase Inhibitors/chemistry/*pharmacology
+MH  - beta-Lactamases/chemistry/classification/*drug effects/*metabolism
+MH  - beta-Lactams/chemistry/*metabolism/*pharmacology
+PMC - PMC6723624
+OTO - NOTNLM
+OT  - *antimicrobial resistance
+OT  - *carbapenemase
+OT  - *enzyme mechanism
+OT  - *metallo-β-lactamase
+OT  - *β-lactam
+EDAT- 2019/04/09 06:00
+MHDA- 2020/06/11 06:00
+CRDT- 2019/04/09 06:00
+PHST- 2019/01/17 00:00 [received]
+PHST- 2019/03/27 00:00 [revised]
+PHST- 2019/04/01 00:00 [accepted]
+PHST- 2019/04/09 06:00 [pubmed]
+PHST- 2020/06/11 06:00 [medline]
+PHST- 2019/04/09 06:00 [entrez]
+AID - S0022-2836(19)30182-2 [pii]
+AID - 10.1016/j.jmb.2019.04.002 [doi]
+PST - ppublish
+SO  - J Mol Biol. 2019 Aug 23;431(18):3472-3500. doi: 10.1016/j.jmb.2019.04.002. Epub 2019 
+      Apr 5.
+
+PMID- 23163348
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130321
+LR  - 20211021
+IS  - 1749-6632 (Electronic)
+IS  - 0077-8923 (Print)
+IS  - 0077-8923 (Linking)
+VI  - 1277
+DP  - 2013 Jan
+TI  - Metallo-β-lactamase structure and function.
+PG  - 91-104
+LID - 10.1111/j.1749-6632.2012.06796.x [doi]
+AB  - β-Lactam antibiotics are the most commonly used antibacterial agents and growing 
+      resistance to these drugs is a concern. Metallo-β-lactamases are a diverse set of 
+      enzymes that catalyze the hydrolysis of a broad range of β-lactam drugs including 
+      carbapenems. This diversity is reflected in the observation that the enzyme 
+      mechanisms differ based on whether one or two zincs are bound in the active site 
+      that, in turn, is dependent on the subclass of β-lactamase. The dissemination of the 
+      genes encoding these enzymes among Gram-negative bacteria has made them an important 
+      cause of resistance. In addition, there are currently no clinically available 
+      inhibitors to block metallo-β-lactamase action. This review summarizes the numerous 
+      studies that have yielded insights into the structure, function, and mechanism of 
+      action of these enzymes.
+CI  - © 2012 New York Academy of Sciences.
+FAU - Palzkill, Timothy
+AU  - Palzkill T
+AD  - Department of Pharmacology, Baylor College of Medicine, Houston, Texas 77030, USA. 
+      timothyp@bcm.edu
+LA  - eng
+GR  - R01 AI032956/AI/NIAID NIH HHS/United States
+GR  - R37 AI032956/AI/NIAID NIH HHS/United States
+GR  - R56 AI032956/AI/NIAID NIH HHS/United States
+GR  - AI32956/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20121116
+TA  - Ann N Y Acad Sci
+JT  - Annals of the New York Academy of Sciences
+JID - 7506858
+RN  - EC 3.4.24.- (Metalloendopeptidases)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+SB  - IM
+MH  - Catalysis
+MH  - Catalytic Domain
+MH  - Metalloendopeptidases/chemistry/classification/metabolism
+MH  - Mutagenesis
+MH  - Protein Binding
+MH  - Substrate Specificity
+MH  - beta-Lactamases/*chemistry/classification/*metabolism
+PMC - PMC3970115
+MID - NIHMS411328
+COIS- Conflicts of interest The author declares no conflicts of interest.
+EDAT- 2012/11/21 06:00
+MHDA- 2013/03/22 06:00
+CRDT- 2012/11/21 06:00
+PHST- 2012/11/21 06:00 [entrez]
+PHST- 2012/11/21 06:00 [pubmed]
+PHST- 2013/03/22 06:00 [medline]
+AID - 10.1111/j.1749-6632.2012.06796.x [doi]
+PST - ppublish
+SO  - Ann N Y Acad Sci. 2013 Jan;1277:91-104. doi: 10.1111/j.1749-6632.2012.06796.x. Epub 
+      2012 Nov 16.
+
+PMID- 18154524
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080331
+LR  - 20080624
+IS  - 1198-743X (Print)
+IS  - 1198-743X (Linking)
+VI  - 14 Suppl 1
+DP  - 2008 Jan
+TI  - Defining an extended-spectrum beta-lactamase.
+PG  - 3-10
+AB  - The term 'extended-spectrum beta-lactamase' (ESBL), initially 
+      'extended-broad-spectrum beta-lactamase', was first coined for derivatives of TEM 
+      and SHV enzymes able to hydrolyse oxyimino-cephalosporins. These all belonged to 
+      beta-lactamase functional group 2be. Subsequently, the term has been stretched to 
+      include: (i) enzymes with spectra similar to those of TEM and SHV mutants but 
+      derived from other sources, e.g., the CTX-M and VEB types; (ii) TEM and SHV mutants 
+      with borderline ESBL activity, e.g., TEM-12; and (iii) various beta-lactamases 
+      conferring wider resistance than their parent types but not meeting the definition 
+      for group 2be, e.g., OXA derivatives and mutant AmpC types with increased activity 
+      against cefepime. It seems best-and pragmatic-that the term 'ESBL' retains its broad 
+      modern usage, but that should always be accompanied by mention of the enzyme's 
+      family as, e.g., in 'TEM ESBL' or 'OXA ESBL', not as a sole moniker.
+FAU - Livermore, D M
+AU  - Livermore DM
+AD  - Antibiotic Resistance Monitoring and Reference Laboratory, Health Protection Agency 
+      Centre for Infections, London, UK. david.livermore@hpa.org.uk
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Clin Microbiol Infect
+JT  - Clinical microbiology and infection : the official publication of the European 
+      Society of Clinical Microbiology and Infectious Diseases
+JID - 9516420
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Carbapenems)
+RN  - 0 (Cephalosporins)
+RN  - 0 (beta-Lactams)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+SB  - IM
+EIN - Clin Microbiol Infect. 2008 May;14 Suppl 5:21-4
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Carbapenems/pharmacology
+MH  - Cephalosporins/pharmacology
+MH  - Escherichia coli/drug effects/enzymology/genetics
+MH  - Gram-Negative Bacteria/*drug effects/*enzymology/genetics
+MH  - Kinetics
+MH  - Microbial Sensitivity Tests
+MH  - Mutation
+MH  - *beta-Lactam Resistance
+MH  - beta-Lactamases/*classification/genetics/metabolism
+MH  - beta-Lactams/*pharmacology
+RF  - 44
+EDAT- 2007/12/25 09:00
+MHDA- 2008/04/01 09:00
+CRDT- 2007/12/25 09:00
+PHST- 2007/12/25 09:00 [pubmed]
+PHST- 2008/04/01 09:00 [medline]
+PHST- 2007/12/25 09:00 [entrez]
+AID - CLM1857 [pii]
+AID - 10.1111/j.1469-0691.2007.01857.x [doi]
+PST - ppublish
+SO  - Clin Microbiol Infect. 2008 Jan;14 Suppl 1:3-10. doi: 
+      10.1111/j.1469-0691.2007.01857.x.
+
+PMID- 30061284
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190930
+LR  - 20190930
+IS  - 1098-6596 (Electronic)
+IS  - 0066-4804 (Print)
+IS  - 0066-4804 (Linking)
+VI  - 62
+IP  - 10
+DP  - 2018 Oct
+TI  - Past and Present Perspectives on β-Lactamases.
+LID - 10.1128/AAC.01076-18 [doi]
+LID - e01076-18
+AB  - β-Lactamases, the major resistance determinant for β-lactam antibiotics in 
+      Gram-negative bacteria, are ancient enzymes whose origins can be traced back 
+      millions of years ago. These well-studied enzymes, currently numbering almost 2,800 
+      unique proteins, initially emerged from environmental sources, most likely to 
+      protect a producing bacterium from attack by naturally occurring β-lactams. Their 
+      ancestors were presumably penicillin-binding proteins that share sequence homology 
+      with β-lactamases possessing an active-site serine. Metallo-β-lactamases also exist, 
+      with one or two catalytically functional zinc ions. Although penicillinases in 
+      Gram-positive bacteria were reported shortly after penicillin was introduced 
+      clinically, transmissible β-lactamases that could hydrolyze recently approved 
+      cephalosporins, monobactams, and carbapenems later became important in Gram-negative 
+      pathogens. Nomenclature is based on one of two major systems. Originally, functional 
+      classifications were used, based on substrate and inhibitor profiles. A later scheme 
+      classifies β-lactamases according to amino acid sequences, resulting in class A, B, 
+      C, and D enzymes. A more recent nomenclature combines the molecular and biochemical 
+      classifications into 17 functional groups that describe most β-lactamases. Some of 
+      the most problematic enzymes in the clinical community include extended-spectrum 
+      β-lactamases (ESBLs) and the serine and metallo-carbapenemases, all of which are at 
+      least partially addressed with new β-lactamase inhibitor combinations. New enzyme 
+      variants continue to be described, partly because of the ease of obtaining sequence 
+      data from whole-genome sequencing studies. Often, these new enzymes are devoid of 
+      any phenotypic descriptions, making it more difficult for clinicians and antibiotic 
+      researchers to address new challenges that may be posed by unusual β-lactamases.
+CI  - Copyright © 2018 American Society for Microbiology.
+FAU - Bush, Karen
+AU  - Bush K
+AUID- ORCID: 0000-0002-7843-2474
+AD  - Department of Biology, Indiana University Bloomington, Bloomington, Indiana, USA 
+      karbush@indiana.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180924
+TA  - Antimicrob Agents Chemother
+JT  - Antimicrobial agents and chemotherapy
+JID - 0315061
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (Cephalosporins)
+RN  - 0 (beta-Lactams)
+RN  - EC 3.5.2.- (Penicillinase)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+RN  - EC 3.5.2.6 (carbapenemase)
+SB  - IM
+MH  - Bacterial Proteins/metabolism
+MH  - Cephalosporins/pharmacology
+MH  - Gram-Negative Bacteria/drug effects
+MH  - Gram-Positive Bacteria/drug effects
+MH  - Penicillinase/metabolism
+MH  - beta-Lactamases/*metabolism
+MH  - beta-Lactams/*pharmacology
+PMC - PMC6153792
+OTO - NOTNLM
+OT  - *ESBL
+OT  - *MBL
+OT  - *carbapenemase
+OT  - *cephalosporinase
+OT  - *penicillinase
+OT  - *β-lactam
+OT  - *β-lactamase
+EDAT- 2018/08/01 06:00
+MHDA- 2019/10/01 06:00
+CRDT- 2018/08/01 06:00
+PHST- 2018/08/01 06:00 [pubmed]
+PHST- 2019/10/01 06:00 [medline]
+PHST- 2018/08/01 06:00 [entrez]
+AID - AAC.01076-18 [pii]
+AID - 01076-18 [pii]
+AID - 10.1128/AAC.01076-18 [doi]
+PST - epublish
+SO  - Antimicrob Agents Chemother. 2018 Sep 24;62(10):e01076-18. doi: 
+      10.1128/AAC.01076-18. Print 2018 Oct.
+
+PMID- 20412308
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110124
+LR  - 20101102
+IS  - 1574-6976 (Electronic)
+IS  - 0168-6445 (Linking)
+VI  - 34
+IP  - 6
+DP  - 2010 Nov
+TI  - Natural evolution of TEM-1 β-lactamase: experimental reconstruction and clinical 
+      relevance.
+PG  - 1015-36
+LID - 10.1111/j.1574-6976.2010.00222.x [doi]
+AB  - TEM-1 β-lactamase is one of the most well-known antibiotic resistance determinants 
+      around. It confers resistance to penicillins and early cephalosporins and has shown 
+      an astonishing functional plasticity in response to the introduction of novel drugs 
+      derived from these antibiotics. Since its discovery in the 1960s, over 170 variants 
+      of TEM-1 - with different amino acid sequences and often resistance phenotypes - 
+      have been isolated in hospitals and clinics worldwide. Next to this well-documented 
+      'natural' evolution, the in vitro evolution of TEM-1 has been the focus of attention 
+      of many experimental studies. In this review, we compare the natural and laboratory 
+      evolution of TEM-1 in order to address the question to what extent the evolution of 
+      antibiotic resistance can be repeated, and hence might have been predicted, under 
+      laboratory conditions. We also use the comparison to gain an insight into the 
+      adaptive relevance of hitherto uncharacterized substitutions present in clinical 
+      isolates and to predict substitutions not yet observed in nature. Based on new 
+      structural insights, we review what is known about substitutions in TEM-1 that 
+      contribute to the extension of its resistance phenotype. Finally, we address the 
+      clinical relevance of TEM alleles during the past decade, which has been dominated 
+      by the emergence of another β-lactamase, CTX-M.
+FAU - Salverda, Merijn L M
+AU  - Salverda ML
+AD  - Laboratory of Genetics, Wageningen University, Wageningen, The Netherlands. 
+      merijnsalverda@hotmail.com
+FAU - De Visser, J Arjan G M
+AU  - De Visser JA
+FAU - Barlow, Miriam
+AU  - Barlow M
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 PT  - Review
-TA  - Curr Drug Targets
-JT  - Current drug targets
-JID - 100960531
+PL  - England
+TA  - FEMS Microbiol Rev
+JT  - FEMS microbiology reviews
+JID - 8902526
 RN  - 0 (Anti-Bacterial Agents)
 RN  - EC 3.5.2.6 (beta-Lactamases)
+RN  - EC 3.5.2.6 (beta-lactamase TEM-1)
 SB  - IM
-MH  - Anti-Bacterial Agents/chemistry/*pharmacology
-MH  - Chromosomes, Bacterial/genetics
-MH  - Communicable Diseases/drug therapy/microbiology
-MH  - Crystallography, X-Ray
-MH  - Drug Resistance, Bacterial
-MH  - Gram-Negative Bacteria/*enzymology/genetics
-MH  - Humans
-MH  - Hydrolysis
-MH  - Models, Molecular
-MH  - Phylogeny
-MH  - Plasmids/genetics
-MH  - Protein Conformation
-MH  - Structure-Activity Relationship
-MH  - beta-Lactamases/*chemistry/genetics/*metabolism
-PMC - PMC5405625
-EDAT- 2016/03/11 06:00
-MHDA- 2017/09/07 06:00
-CRDT- 2016/03/11 06:00
-PHST- 2015/03/31 00:00 [received]
-PHST- 2015/07/02 00:00 [revised]
-PHST- 2016/03/05 00:00 [accepted]
-PHST- 2016/03/11 06:00 [entrez]
-PHST- 2016/03/11 06:00 [pubmed]
-PHST- 2017/09/07 06:00 [medline]
-AID - CDT-EPUB-74314 [pii]
-AID - CDT-17-1006 [pii]
-AID - 10.2174/1389450117666160310144501 [doi]
-PST - ppublish
-SO  - Curr Drug Targets. 2016;17(9):1006-28. doi: 10.2174/1389450117666160310144501.
-
-PMID- 33755013
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20211130
-LR  - 20211130
-IS  - 2050-084X (Electronic)
-IS  - 2050-084X (Linking)
-VI  - 10
-DP  - 2021 Mar 23
-TI  - Allosteric communication in class A β-lactamases occurs via cooperative coupling of 
-      loop dynamics.
-LID - 10.7554/eLife.66567 [doi]
-LID - e66567
-AB  - Understanding allostery in enzymes and tools to identify it offer promising 
-      alternative strategies to inhibitor development. Through a combination of 
-      equilibrium and nonequilibrium molecular dynamics simulations, we identify 
-      allosteric effects and communication pathways in two prototypical class A 
-      β-lactamases, TEM-1 and KPC-2, which are important determinants of antibiotic 
-      resistance. The nonequilibrium simulations reveal pathways of communication 
-      operating over distances of 30 Å or more. Propagation of the signal occurs through 
-      cooperative coupling of loop dynamics. Notably, 50% or more of clinically relevant 
-      amino acid substitutions map onto the identified signal transduction pathways. This 
-      suggests that clinically important variation may affect, or be driven by, 
-      differences in allosteric behavior, providing a mechanism by which amino acid 
-      substitutions may affect the relationship between spectrum of activity, catalytic 
-      turnover, and potential allosteric behavior in this clinically important enzyme 
-      family. Simulations of the type presented here will help in identifying and 
-      analyzing such differences.
-CI  - © 2021, Galdadas et al.
-FAU - Galdadas, Ioannis
-AU  - Galdadas I
-AUID- ORCID: 0000-0003-2136-9723
-AD  - University College London, Department of Chemistry, London, United Kingdom.
-FAU - Qu, Shen
-AU  - Qu S
-AD  - University College London School of Pharmacy, Pharmaceutical and Biological 
-      Chemistry, London, United Kingdom.
-FAU - Oliveira, Ana Sofia F
-AU  - Oliveira ASF
-AD  - University of Bristol, Centre for Computational Chemistry, School of Chemistry, 
-      Bristol, United Kingdom.
-FAU - Olehnovics, Edgar
-AU  - Olehnovics E
-AD  - University College London School of Pharmacy, Pharmaceutical and Biological 
-      Chemistry, London, United Kingdom.
-FAU - Mack, Andrew R
-AU  - Mack AR
-AUID- ORCID: 0000-0002-0131-7996
-AD  - Veterans Affairs Northeast Ohio Healthcare System, Research Service, Cleveland, 
-      United States.
-AD  - Case Western Reserve University, Department of Molecular Biology and Microbiology, 
-      Cleveland, United States.
-FAU - Mojica, Maria F
-AU  - Mojica MF
-AD  - Veterans Affairs Northeast Ohio Healthcare System, Research Service, Cleveland, 
-      United States.
-AD  - Case Western Reserve University, Department of Infectious Diseases, School of 
-      Medicine, Cleveland, United States.
-FAU - Agarwal, Pratul K
-AU  - Agarwal PK
-AD  - Department of Physiological Sciences and High-Performance Computing Center, Oklahoma 
-      State University, Stillwater, United States.
-FAU - Tooke, Catherine L
-AU  - Tooke CL
-AD  - University of Bristol, School of Cellular and Molecular Medicine, Bristol, United 
-      Kingdom.
-FAU - Gervasio, Francesco Luigi
-AU  - Gervasio FL
-AUID- ORCID: 0000-0003-4831-5039
-AD  - University College London, Department of Chemistry, London, United Kingdom.
-AD  - University College London, Institute of Structural and Molecular Biology, London, 
-      United Kingdom.
-AD  - University of Geneva, Pharmaceutical Sciences, Geneva, Switzerland.
-FAU - Spencer, James
-AU  - Spencer J
-AD  - University of Bristol, School of Cellular and Molecular Medicine, Bristol, United 
-      Kingdom.
-FAU - Bonomo, Robert A
-AU  - Bonomo RA
-AD  - Veterans Affairs Northeast Ohio Healthcare System, Research Service, Cleveland, 
-      United States.
-AD  - Case Western Reserve University, Department of Molecular Biology and Microbiology, 
-      Cleveland, United States.
-AD  - Case Western Reserve University, Department of Infectious Diseases, School of 
-      Medicine, Cleveland, United States.
-AD  - Case Western Reserve University, Department of Biochemistry, Cleveland, United 
-      States.
-AD  - Case Western Reserve University, Department of Pharmacology, Cleveland, United 
-      States.
-AD  - Case Western Reserve University, Department of Proteomics and Bioinformatics, 
-      Cleveland, United States.
-AD  - CWRU-Cleveland VAMC Center for Antimicrobial Resistance and Epidemiology (Case VA 
-      CARES), Cleveland, United States.
-FAU - Mulholland, Adrian J
-AU  - Mulholland AJ
-AUID- ORCID: 0000-0003-1015-4567
-AD  - University of Bristol, Centre for Computational Chemistry, School of Chemistry, 
-      Bristol, United Kingdom.
-FAU - Haider, Shozeb
-AU  - Haider S
-AUID- ORCID: 0000-0003-2650-2925
-AD  - University College London School of Pharmacy, Pharmaceutical and Biological 
-      Chemistry, London, United Kingdom.
-LA  - eng
-SI  - figshare/10.6084/m9.figshare.13583384
-GR  - R01 AI100560/AI/NIAID NIH HHS/United States
-GR  - I01 BX001974/BX/BLRD VA/United States
-GR  - MR/T016035/1/MRC_/Medical Research Council/United Kingdom
-GR  - R01 AI072219/AI/NIAID NIH HHS/United States
-GR  - BB/L01386X/1/BB_/Biotechnology and Biological Sciences Research Council/United 
-      Kingdom
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-DEP - 20210323
-TA  - Elife
-JT  - eLife
-JID - 101579614
-RN  - EC 3.5.2.6 (beta-Lactamases)
-SB  - IM
-MH  - Amino Acid Substitution
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Bacteria/chemistry/drug effects/*enzymology/genetics
+MH  - Bacterial Infections/*microbiology
 MH  - *Drug Resistance, Bacterial
-MH  - *Molecular Dynamics Simulation
-MH  - Protein Conformation
-MH  - beta-Lactamases/*chemistry
-PMC - PMC8060031
-OAB - Antibiotics are crucial drugs for treating and preventing bacterial infections, but 
-      some bacteria are evolving ways to resist their effects. This ‘antibiotic 
-      resistance’ threatens lives and livelihoods worldwide. β-lactam antibiotics, like 
-      penicillin, are some of the most commonly used, but some bacteria can now make 
-      enzymes called β-lactamases, which destroy these antibiotics. Dozens of different 
-      types of β-lactamases now exist, each with different properties. Two of the most 
-      medically important are TEM-1 and KPC-2. One way to counteract β-lactamases is with 
-      drugs called inhibitors that stop the activity of these enzymes. The approved 
-      β-lactamase inhibitors work by blocking the part of the enzyme that binds and 
-      destroys antibiotics, known as the 'active site'. The β-lactamases have evolved, 
-      some of which have the ability to resist the effects of known inhibitors. It is 
-      possible that targeting parts of β-lactamases far from the active site, known as 
-      'allosteric sites', might get around these new bacterial defences. A molecule that 
-      binds to an allosteric site might alter the enzyme's shape, or restrict its 
-      movement, making it unable to do its job. Galdadas, Qu et al. used simulations to 
-      understand how molecules binding at allosteric sites affect enzyme movement. The 
-      experiments examined the structures of both TEM-1 and KPC-2, looking at how their 
-      shapes changed as molecules were removed from the allosteric site. This revealed how 
-      the allosteric sites and the active site are linked together. When molecules were 
-      taken out of the allosteric sites, they triggered ripples of shape change that 
-      travelled via loop-like structures across the surface of the enzyme. These loops 
-      contain over half of the known differences between the different types of 
-      β-lactamases, suggesting mutations here may be responsible for changing which 
-      antibiotics each enzyme can destroy. In other words, changes in the 'ripples' may be 
-      related to the ability of the enzymes to resist particular antibiotics. 
-      Understanding how changes in one part of a β-lactamase enzyme reach the active site 
-      could help in the design of new inhibitors. It might also help to explain how 
-      β-lactamases evolve new properties. Further work could show why different enzymes 
-      are more or less active against different antibiotics.
-OABL- eng
-OTO - NOTNLM
-OT  - *KPC-2
-OT  - *TEM-1
-OT  - *medicine
-OT  - *molecular biophysics
-OT  - *structural biology
-OT  - *β-lactamase
-COIS- IG, SQ, AO, EO, AM, MM, CT, FG, JS, RB, AM, SH No competing interests declared, PA 
-      Pratul K Agarwal is the founder and owner of Arium BioLabs LLC.
-EDAT- 2021/03/24 06:00
-MHDA- 2021/12/01 06:00
-CRDT- 2021/03/23 12:26
-PHST- 2021/01/14 00:00 [received]
-PHST- 2021/03/19 00:00 [accepted]
-PHST- 2021/03/24 06:00 [pubmed]
-PHST- 2021/12/01 06:00 [medline]
-PHST- 2021/03/23 12:26 [entrez]
-AID - 66567 [pii]
-AID - 10.7554/eLife.66567 [doi]
-PST - epublish
-SO  - Elife. 2021 Mar 23;10:e66567. doi: 10.7554/eLife.66567.
+MH  - *Evolution, Molecular
+MH  - Humans
+MH  - Molecular Conformation
+MH  - Mutation
+MH  - beta-Lactamases/chemistry/*genetics/*metabolism
+EDAT- 2010/04/24 06:00
+MHDA- 2011/01/25 06:00
+CRDT- 2010/04/24 06:00
+PHST- 2010/04/24 06:00 [entrez]
+PHST- 2010/04/24 06:00 [pubmed]
+PHST- 2011/01/25 06:00 [medline]
+AID - FMR222 [pii]
+AID - 10.1111/j.1574-6976.2010.00222.x [doi]
+PST - ppublish
+SO  - FEMS Microbiol Rev. 2010 Nov;34(6):1015-36. doi: 10.1111/j.1574-6976.2010.00222.x.
 
-PMID- 25485972
+PMID- 11257029
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20150408
-LR  - 20181202
-IS  - 1520-4995 (Electronic)
-IS  - 0006-2960 (Print)
-IS  - 0006-2960 (Linking)
-VI  - 54
-IP  - 2
-DP  - 2015 Jan 20
-TI  - Kinetic and structural requirements for carbapenemase activity in GES-type 
-      β-lactamases.
-PG  - 588-97
-LID - 10.1021/bi501052t [doi]
-AB  - Carbapenems are the last resort antibiotics for treatment of life-threatening 
-      infections. The GES β-lactamases are important contributors to carbapenem resistance 
-      in clinical bacterial pathogens. A single amino acid difference at position 170 of 
-      the GES-1, GES-2, and GES-5 enzymes is responsible for the expansion of their 
-      substrate profile to include carbapenem antibiotics. This highlights the increasing 
-      need to understand the mechanisms by which the GES β-lactamases function to aid in 
-      development of novel therapeutics. We demonstrate that the catalytic efficiency of 
-      the enzymes with carbapenems meropenem, ertapenem, and doripenem progressively 
-      increases (100-fold) from GES-1 to -5, mainly due to an increase in the rate of 
-      acylation. The data reveal that while acylation is rate limiting for GES-1 and GES-2 
-      for all three carbapenems, acylation and deacylation are indistinguishable for 
-      GES-5. The ertapenem-GES-2 crystal structure shows that only the core structure of 
-      the antibiotic interacts with the active site of the GES-2 β-lactamase. The 
-      identical core structures of ertapenem, doripenem, and meropenem are likely 
-      responsible for the observed similarities in the kinetics with these carbapenems. 
-      The lack of a methyl group in the core structure of imipenem may provide a 
-      structural rationale for the increase in turnover of this carbapenem by the GES 
-      β-lactamases. Our data also show that in GES-2 an extensive hydrogen-bonding network 
-      between the acyl-enzyme complex and the active site water attenuates activation of 
-      this water molecule, which results in poor deacylation by this enzyme.
-FAU - Stewart, Nichole K
-AU  - Stewart NK
-AD  - Department of Chemistry and Biochemistry, University of Notre Dame , Notre Dame, 
-      Indiana 46556, United States.
-FAU - Smith, Clyde A
-AU  - Smith CA
-FAU - Frase, Hilary
-AU  - Frase H
-FAU - Black, D J
-AU  - Black DJ
-FAU - Vakulenko, Sergei B
-AU  - Vakulenko SB
-LA  - eng
-GR  - R01 AI089726/AI/NIAID NIH HHS/United States
-GR  - 5 P41RR001209/RR/NCRR NIH HHS/United States
-GR  - AI089726/AI/NIAID NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-DEP - 20141222
-TA  - Biochemistry
-JT  - Biochemistry
-JID - 0370623
-RN  - 0 (Anti-Bacterial Agents)
-RN  - 0 (Bacterial Proteins)
-RN  - 0 (Carbapenems)
-RN  - 0 (Thienamycins)
-RN  - 0 (beta-Lactams)
-RN  - BHV525JOBH (Doripenem)
-RN  - EC 3.5.2.- (beta-lactamase GES-2)
-RN  - EC 3.5.2.6 (beta-Lactamases)
-RN  - EC 3.5.2.6 (carbapenemase)
-RN  - FV9J3JU8B1 (Meropenem)
-RN  - G32F6EID2H (Ertapenem)
-SB  - IM
-MH  - Anti-Bacterial Agents/*metabolism
-MH  - Bacterial Proteins/chemistry/*metabolism
-MH  - Carbapenems/*metabolism
-MH  - Catalytic Domain
-MH  - Crystallography, X-Ray
-MH  - Doripenem
-MH  - Ertapenem
-MH  - Escherichia coli/chemistry/*enzymology/metabolism
-MH  - Kinetics
-MH  - Meropenem
-MH  - Models, Molecular
-MH  - Thienamycins/*metabolism
-MH  - beta-Lactamases/chemistry/*metabolism
-MH  - beta-Lactams/*metabolism
-PMC - PMC4303295
-EDAT- 2014/12/09 06:00
-MHDA- 2015/04/09 06:00
-CRDT- 2014/12/09 06:00
-PHST- 2014/12/09 06:00 [entrez]
-PHST- 2014/12/09 06:00 [pubmed]
-PHST- 2015/04/09 06:00 [medline]
-AID - 10.1021/bi501052t [doi]
-PST - ppublish
-SO  - Biochemistry. 2015 Jan 20;54(2):588-97. doi: 10.1021/bi501052t. Epub 2014 Dec 22.
-
-PMID- 10595535
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20000107
-LR  - 20181113
-IS  - 0961-8368 (Print)
-IS  - 1469-896X (Electronic)
-IS  - 0961-8368 (Linking)
-VI  - 8
-IP  - 11
-DP  - 1999 Nov
-TI  - The complexed structure and antimicrobial activity of a non-beta-lactam inhibitor of 
-      AmpC beta-lactamase.
-PG  - 2330-7
-AB  - Beta-lactamases are the major resistance mechanism to beta-lactam antibiotics and 
-      pose a growing threat to public health. Recently, bacteria have become resistant to 
-      beta-lactamase inhibitors, making this problem pressing. In an effort to overcome 
-      this resistance, non-beta-lactam inhibitors of beta-lactamases were investigated for 
-      complementarity to the structure of AmpC beta-lactamase from Escherichia coli. This 
-      led to the discovery of an inhibitor, benzo(b)thiophene-2-boronic acid (BZBTH2B), 
-      which inhibited AmpC with a Ki of 27 nM. This inhibitor is chemically dissimilar to 
-      beta-lactams, raising the question of what specific interactions are responsible for 
-      its activity. To answer this question, the X-ray crystallographic structure of 
-      BZBTH2B in complex with AmpC was determined to 2.25 A resolution. The structure 
-      reveals several unexpected interactions. The inhibitor appears to complement the 
-      conserved, R1-amide binding region of AmpC, despite lacking an amide group. 
-      Interactions between one of the boronic acid oxygen atoms, Tyr150, and an ordered 
-      water molecule suggest a mechanism for acid/base catalysis and a direction for 
-      hydrolytic attack in the enzyme catalyzed reaction. To investigate how a 
-      non-beta-lactam inhibitor would perform against resistant bacteria, BZBTH2B was 
-      tested in antimicrobial assays. BZBTH2B significantly potentiated the activity of a 
-      third-generation cephalosporin against AmpC-producing resistant bacteria. This 
-      inhibitor was unaffected by two common resistance mechanisms that often arise 
-      against beta-lactams in conjunction with beta-lactamases. Porin channel mutations 
-      did not decrease the efficacy of BZBTH2B against cells expressing AmpC. Also, this 
-      inhibitor did not induce expression of AmpC, a problem with many beta-lactams. The 
-      structure of the BZBTH2B/AmpC complex provides a starting point for the 
-      structure-based elaboration of this class of non-beta-lactam inhibitors.
-FAU - Powers, R A
-AU  - Powers RA
-AD  - Department of Molecular Pharmacology and Biological Chemistry, Northwestern 
-      University Medical School, Chicago, Illinois 60611-3008, USA.
-FAU - Blázquez, J
-AU  - Blázquez J
-FAU - Weston, G S
-AU  - Weston GS
-FAU - Morosini, M I
-AU  - Morosini MI
-FAU - Baquero, F
-AU  - Baquero F
-FAU - Shoichet, B K
-AU  - Shoichet BK
-LA  - eng
-GR  - GM59957/GM/NIGMS NIH HHS/United States
-GR  - T32 ES07284/ES/NIEHS NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-PT  - Research Support, U.S. Gov't, P.H.S.
-TA  - Protein Sci
-JT  - Protein science : a publication of the Protein Society
-JID - 9211750
-RN  - 0 (Anti-Bacterial Agents)
-RN  - 0 (Bacterial Proteins)
-RN  - 0 (Boronic Acids)
-RN  - 0 (Thiophenes)
-RN  - 0 (benzo(b)thiophene-2-boronic acid)
-RN  - 0 (beta-Lactamase Inhibitors)
-RN  - EC 3.5.2.6 (AmpC beta-lactamases)
-RN  - EC 3.5.2.6 (beta-Lactamases)
-SB  - IM
-MH  - Anti-Bacterial Agents/chemistry/pharmacology
-MH  - *Bacterial Proteins
-MH  - Boronic Acids/*chemistry/*pharmacology
-MH  - Citrobacter freundii/drug effects
-MH  - Crystallography, X-Ray
-MH  - Enterobacter cloacae/drug effects
-MH  - Escherichia coli/drug effects/enzymology
-MH  - Microbial Sensitivity Tests
-MH  - Models, Molecular
-MH  - Pseudomonas aeruginosa/drug effects
-MH  - Thiophenes/*chemistry/*pharmacology
-MH  - beta-Lactam Resistance
-MH  - *beta-Lactamase Inhibitors
-MH  - beta-Lactamases/*chemistry
-PMC - PMC2144209
-EDAT- 1999/12/14 00:00
-MHDA- 1999/12/14 00:01
-CRDT- 1999/12/14 00:00
-PHST- 1999/12/14 00:00 [pubmed]
-PHST- 1999/12/14 00:01 [medline]
-PHST- 1999/12/14 00:00 [entrez]
-AID - 10.1110/ps.8.11.2330 [doi]
-PST - ppublish
-SO  - Protein Sci. 1999 Nov;8(11):2330-7. doi: 10.1110/ps.8.11.2330.
-
-PMID- 19671702
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20091110
-LR  - 20211020
-IS  - 1083-351X (Electronic)
-IS  - 0021-9258 (Print)
-IS  - 0021-9258 (Linking)
-VI  - 284
-IP  - 41
-DP  - 2009 Oct 9
-TI  - Common mechanistic features among metallo-beta-lactamases: a computational study of 
-      Aeromonas hydrophila CphA enzyme.
-PG  - 28164-28171
-LID - S0021-9258(20)38336-8 [pii]
-LID - 10.1074/jbc.M109.049502 [doi]
-AB  - Metallo-beta-lactamases (MbetaLs) constitute an increasingly serious clinical threat 
-      by giving rise to beta-lactam antibiotic resistance. They accommodate in their 
-      catalytic pocket one or two zinc ions, which are responsible for the hydrolysis of 
-      beta-lactams. Recent x-ray studies on a member of the mono-zinc B2 MbetaLs, CphA 
-      from Aeromonas hydrophila, have paved the way to mechanistic studies of this 
-      important subclass, which is selective for carbapenems. Here we have used hybrid 
-      quantum mechanical/molecular mechanical methods to investigate the enzymatic 
-      hydrolysis by CphA of the antibiotic biapenem. Our calculations describe the entire 
-      reaction and point to a new mechanistic description, which is in agreement with the 
-      available experimental evidence. Within our proposal, the zinc ion properly orients 
-      the antibiotic while directly activating a second catalytic water molecule for the 
-      completion of the hydrolytic cycle. This mechanism provides an explanation for a 
-      variety of mutagenesis experiments and points to common functional facets across B2 
-      and B1 MbetaLs.
-FAU - Simona, Fabio
-AU  - Simona F
-AD  - Laboratory of Computational Chemistry and Biochemistry, Department für Chemie und 
-      Biochemie, Universität Bern, Freiestrasse 3, CH-3012 Bern, Switzerland.
-FAU - Magistrato, Alessandra
-AU  - Magistrato A
-AD  - CNR-INFM-Democritos National Simulation Center, via Beirut 4, 34014 Grignano, 
-      Trieste, Italy; SISSA, Via Beirut 2-4, 34014 Grignano, Trieste, Italy.
-FAU - Dal Peraro, Matteo
-AU  - Dal Peraro M
-AD  - Laboratory for Biomolecular Modeling, Institute of Bioengineering, School of Life 
-      Sciences, Ecole Polytechnique Fédérale de Lausanne, EPFL, CH-1015 Lausanne, 
-      Switzerland.
-FAU - Cavalli, Andrea
-AU  - Cavalli A
-AD  - Department of Pharmaceutical Sciences, University of Bologna, Via Belmeloro 6, 
-      I-40126 Bologna, Italy; Department of Drug Discovery and Development, Italian 
-      Institute of Technology, Via Morego 30, I-16163 Genova, Italy.
-FAU - Vila, Alejandro J
-AU  - Vila AJ
-AD  - Instituto de BiologiaMolecular y Celular de Rosario, Facultad de Bioquímicas y 
-      Farmaceuticas, Universidad Nacional de Rosario, Suipacha 531, S2002LRK Rosario, 
-      Argentina.
-FAU - Carloni, Paolo
-AU  - Carloni P
-AD  - SISSA, Via Beirut 2-4, 34014 Grignano, Trieste, Italy. Electronic address: 
-      carloni@sissa.it.
-LA  - eng
-GR  - Howard Hughes Medical Institute/United States
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20090811
-TA  - J Biol Chem
-JT  - The Journal of biological chemistry
-JID - 2985121R
-RN  - 0 (Anti-Infective Agents)
-RN  - 0 (Bacterial Proteins)
-RN  - 0 (Thienamycins)
-RN  - EC 3.5.2.6 (beta-Lactamases)
-RN  - EC 3.5.2.6 (cphA protein, Aeromonas hydrophila)
-RN  - YR5U3L9ZH1 (biapenem)
-SB  - IM
-MH  - Aeromonas hydrophila/*enzymology/genetics
-MH  - Anti-Infective Agents/chemistry/metabolism
-MH  - Bacterial Proteins/*chemistry/genetics/*metabolism
-MH  - Binding Sites
-MH  - *Computer Simulation
-MH  - Drug Resistance, Microbial/physiology
-MH  - Models, Molecular
-MH  - Molecular Structure
-MH  - Protein Conformation
-MH  - Quantum Theory
-MH  - Substrate Specificity
-MH  - Thienamycins/chemistry/metabolism
-MH  - beta-Lactamases/*chemistry/genetics/*metabolism
-PMC - PMC2788867
-EDAT- 2009/08/13 09:00
-MHDA- 2009/11/11 06:00
-CRDT- 2009/08/13 09:00
-PHST- 2009/08/13 09:00 [entrez]
-PHST- 2009/08/13 09:00 [pubmed]
-PHST- 2009/11/11 06:00 [medline]
-AID - S0021-9258(20)38336-8 [pii]
-AID - M109.049502 [pii]
-AID - 10.1074/jbc.M109.049502 [doi]
-PST - ppublish
-SO  - J Biol Chem. 2009 Oct 9;284(41):28164-28171. doi: 10.1074/jbc.M109.049502. Epub 2009 
-      Aug 11.
-
-PMID- 18528987
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20080731
-LR  - 20211020
-IS  - 1520-5126 (Electronic)
-IS  - 0002-7863 (Print)
-IS  - 0002-7863 (Linking)
-VI  - 130
-IP  - 26
-DP  - 2008 Jul 2
-TI  - Conformational changes in the metallo-beta-lactamase ImiS during the catalytic 
-      reaction: an EPR spectrokinetic study of Co(II)-spin label interactions.
-PG  - 8215-22
-LID - 10.1021/ja0774562 [doi]
-AB  - Metallo-beta-lactamases are responsible for conferring antibiotic resistance on 
-      certain pathogenic bacteria. In consequence, the search for inhibitors that may be 
-      useful in combating antibiotic resistance has fueled much study of the active sites 
-      of these enzymes. There exists circumstantial evidence that the binding of 
-      substrates and inhibitors to metallo-beta-lactamases may involve binding to the 
-      organic part of the molecule, in addition to or prior to binding to one or more 
-      active site metal ions. It has also been postulated that a conformational change may 
-      accompany this putative binding. In the present study, electron paramagnetic 
-      resonance spectrokinetic study of a spin-labeled variant of the class B2 
-      metallo-beta-lactamase ImiS identified movement of a component residue on a 
-      conserved alpha-helix in a catalytically competent time upon formation of a 
-      transient reaction intermediate with the substrate imipenem. In a significant 
-      subpopulation of ImiS, this conformational change was not associated with substrate 
-      binding to the active site metal ion but, rather, represents a distinct step in the 
-      reaction with ImiS. This observation has implications regarding the determinants of 
-      substrate specificity in metallo-beta-lactamases and the design of potentially 
-      clinically useful inhibitors.
-FAU - Sharma, Narayan
-AU  - Sharma N
-AD  - Department of Chemistry and Biochemistry, Miami University, Oxford, Ohio 45056, USA.
-FAU - Hu, Zhenxin
-AU  - Hu Z
-FAU - Crowder, Michael W
-AU  - Crowder MW
-FAU - Bennett, Brian
-AU  - Bennett B
-LA  - eng
-GR  - R01 AI056231-02/AI/NIAID NIH HHS/United States
-GR  - EB001980/EB/NIBIB NIH HHS/United States
-GR  - R01 AI056231-05/AI/NIAID NIH HHS/United States
-GR  - R29 AI040052-03/AI/NIAID NIH HHS/United States
-GR  - R01 AI056231-04/AI/NIAID NIH HHS/United States
-GR  - R01 AI056231-03/AI/NIAID NIH HHS/United States
-GR  - AI056231/AI/NIAID NIH HHS/United States
-GR  - R29 AI040052-05/AI/NIAID NIH HHS/United States
-GR  - P41 EB001980/EB/NIBIB NIH HHS/United States
-GR  - R01 AI056231-01/AI/NIAID NIH HHS/United States
-GR  - GM40052/GM/NIGMS NIH HHS/United States
-GR  - R01 AI056231/AI/NIAID NIH HHS/United States
-GR  - R29 AI040052-04/AI/NIAID NIH HHS/United States
-GR  - R29 AI040052-02/AI/NIAID NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-DEP - 20080604
-TA  - J Am Chem Soc
-JT  - Journal of the American Chemical Society
-JID - 7503056
-RN  - 0 (Bacterial Proteins)
-RN  - 0 (Spin Labels)
-RN  - 3G0H8C9362 (Cobalt)
-RN  - EC 3.5.2.6 (ImiS protein, Aeromonas veronii)
-RN  - EC 3.5.2.6 (beta-Lactamases)
-SB  - IM
-MH  - Bacterial Proteins/*chemistry
-MH  - Catalysis
-MH  - *Cobalt
-MH  - Electron Spin Resonance Spectroscopy/*methods
-MH  - Kinetics
-MH  - Protein Conformation
-MH  - Spin Labels
-MH  - Substrate Specificity
-MH  - beta-Lactamases/*chemistry
-PMC - PMC2574873
-MID - NIHMS52198
-EDAT- 2008/06/06 09:00
-MHDA- 2008/08/01 09:00
-CRDT- 2008/06/06 09:00
-PHST- 2008/06/06 09:00 [pubmed]
-PHST- 2008/08/01 09:00 [medline]
-PHST- 2008/06/06 09:00 [entrez]
-AID - 10.1021/ja0774562 [doi]
-PST - ppublish
-SO  - J Am Chem Soc. 2008 Jul 2;130(26):8215-22. doi: 10.1021/ja0774562. Epub 2008 Jun 4.
-
-PMID- 33168749
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210119
-LR  - 20210902
-IS  - 1091-6490 (Electronic)
-IS  - 0027-8424 (Print)
-IS  - 0027-8424 (Linking)
-VI  - 117
-IP  - 47
-DP  - 2020 Nov 24
-TI  - Discovery of small-molecule inhibitors of multidrug-resistance plasmid maintenance 
-      using a high-throughput screening approach.
-PG  - 29839-29850
-LID - 10.1073/pnas.2005948117 [doi]
-AB  - Carbapenem-resistant Enterobacteriaceae (CRE) are multidrug-resistant pathogens for 
-      which new treatments are desperately needed. Carbapenemases and other types of 
-      antibiotic resistance genes are carried almost exclusively on large, low-copy-number 
-      plasmids (pCRE). Accordingly, small molecules that efficiently evict pCRE plasmids 
-      should restore much-needed treatment options. We therefore designed a 
-      high-throughput screen to identify such compounds. A synthetic plasmid was 
-      constructed containing the plasmid replication machinery from a representative 
-      Escherichia coli CRE isolate as well as a fluorescent reporter gene to easily 
-      monitor plasmid maintenance. The synthetic plasmid was then introduced into an E. 
-      coli K12 tolC host. We used this screening strain to test a library of over 12,000 
-      known bioactive agents for molecules that selectively reduce plasmid levels relative 
-      to effects on bacterial growth. From 366 screen hits we further validated the 
-      antiplasmid activity of kasugamycin, an aminoglycoside; CGS 15943, a nucleoside 
-      analog; and Ro 90-7501, a bibenzimidazole. All three compounds exhibited significant 
-      antiplasmid activity including up to complete suppression of plasmid replication 
-      and/or plasmid eviction in multiple orthogonal readouts and potentiated activity of 
-      the carbapenem, meropenem, against a strain carrying the large, pCRE plasmid from 
-      which we constructed the synthetic screening plasmid. Additionally, we found 
-      kasugamycin and CGS 15943 blocked plasmid replication, respectively, by inhibiting 
-      expression or function of the plasmid replication initiation protein, RepE. In 
-      summary, we validated our approach to identify compounds that alter plasmid 
-      maintenance, confer resensitization to antimicrobials, and have specific mechanisms 
-      of action.
-FAU - Zulauf, Katelyn E
-AU  - Zulauf KE
-AD  - Department of Pathology, Beth Israel Deaconess Medical Center, Boston, MA 02215.
-AD  - Harvard Medical School, Boston, MA 02215.
-FAU - Kirby, James E
-AU  - Kirby JE
-AUID- ORCID: 0000-0003-0392-4500
-AD  - Department of Pathology, Beth Israel Deaconess Medical Center, Boston, MA 02215; 
-      jekirby@bidmc.harvard.edu.
-AD  - Harvard Medical School, Boston, MA 02215.
-LA  - eng
-GR  - R33 AI119114/AI/NIAID NIH HHS/United States
-GR  - T32 AI007061/AI/NIAID NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Validation Study
-DEP - 20201109
-TA  - Proc Natl Acad Sci U S A
-JT  - Proceedings of the National Academy of Sciences of the United States of America
-JID - 7505876
-RN  - 0 ((2'-(4-aminophenyl)-(2,5'-bi-1H-benzimidazol)-5-amine))
-RN  - 0 (Amines)
-RN  - 0 (Aminoglycosides)
-RN  - 0 (Anti-Bacterial Agents)
-RN  - 0 (Bacterial Proteins)
-RN  - 0 (Benzimidazoles)
-RN  - 0 (Quinazolines)
-RN  - 0 (Repressor Proteins)
-RN  - 0 (Triazoles)
-RN  - EC 3.5.2.6 (beta-Lactamases)
-RN  - EC 3.5.2.6 (carbapenemase)
-RN  - FV9J3JU8B1 (Meropenem)
-RN  - O957UYB9DY (kasugamycin)
-RN  - Y5A5D5E2AQ (9-chloro-2-(2-furyl)-(1,2,4)triazolo(1,5-c)quinazolin-5-imine)
-SB  - IM
-MH  - Amines/pharmacology/therapeutic use
-MH  - Aminoglycosides/pharmacology/therapeutic use
-MH  - Anti-Bacterial Agents/*pharmacology/therapeutic use
-MH  - Bacterial Proteins/antagonists & inhibitors/genetics
-MH  - Benzimidazoles/pharmacology/therapeutic use
-MH  - Carbapenem-Resistant Enterobacteriaceae/*drug effects/genetics
-MH  - DNA Replication/*drug effects
-MH  - Drug Resistance, Multiple, Bacterial/*drug effects/genetics
-MH  - Drug Synergism
-MH  - Drug Therapy, Combination
-MH  - Enterobacteriaceae Infections/*drug therapy/microbiology
-MH  - Escherichia coli/genetics
-MH  - High-Throughput Screening Assays/*methods
-MH  - Meropenem/pharmacology/therapeutic use
-MH  - Microbial Sensitivity Tests
-MH  - Mutagenesis, Site-Directed
-MH  - Plasmids/genetics
-MH  - Quinazolines/pharmacology/therapeutic use
-MH  - Repressor Proteins/antagonists & inhibitors/genetics/metabolism
-MH  - Triazoles/pharmacology/therapeutic use
-MH  - beta-Lactamases/genetics
-PMC - PMC7703651
-OTO - NOTNLM
-OT  - *antimicrobial
-OT  - *carbapenem-resistant Enterobacteriaceae
-OT  - *high-throughput screening
-OT  - *multidrug resistance
-OT  - *plasmid
-COIS- Competing interest statement: The authors declare a competing interest (as defined 
-      by PNAS policy). This work was supported by the National Institute of Allergy and 
-      Infectious Diseases of the National Institutes of Health under award number 
-      R33AI119114 to J.E.K. K.E.Z. was supported in part by a National Institute of 
-      Allergy and Infectious Diseases training grant (T32AI007061). The content is solely 
-      the responsibility of the authors and does not necessarily represent the official 
-      views of the National Institutes of Health. The HP D300 digital dispenser and TECAN 
-      M1000 were provided for our use by TECAN (Morrisville, NC). Tecan had no role in 
-      study design, data collection/interpretation, manuscript preparation, or decision to 
-      publish.
-EDAT- 2020/11/11 06:00
-MHDA- 2021/01/20 06:00
-CRDT- 2020/11/10 05:39
-PHST- 2020/11/11 06:00 [pubmed]
-PHST- 2021/01/20 06:00 [medline]
-PHST- 2020/11/10 05:39 [entrez]
-AID - 2005948117 [pii]
-AID - 202005948 [pii]
-AID - 10.1073/pnas.2005948117 [doi]
-PST - ppublish
-SO  - Proc Natl Acad Sci U S A. 2020 Nov 24;117(47):29839-29850. doi: 
-      10.1073/pnas.2005948117. Epub 2020 Nov 9.
-
-PMID- 22649657
-OWN - NLM
-STAT- PubMed-not-MEDLINE
-DCOM- 20120823
-LR  - 20211021
-IS  - 2075-8251 (Print)
-IS  - 2075-8251 (Linking)
-VI  - 2
-IP  - 3
-DP  - 2010 Jul
-TI  - Oligonucleotide microarray for the identification of carbapenemase genes of 
-      molecular classes a, B, and d.
-PG  - 101-9
-AB  - This work is a report on the development of a method of hybridization analysis on 
-      DNA microarrays for the simultaneous identification and typing of 
-      carbapenemase-encoding genes. These enzymes are produced by the microorganisms that 
-      are responsible for causing infectious diseases. The method involves several steps, 
-      including DNA extraction from clinical samples and amplification of carbapenemase 
-      genes by multiplex PCR with simultaneous labelling by biotin. Following that, 
-      hybridization of the labeled PCR products with oligonucleotide probes immobilized on 
-      the surface of a nitrocellulose-based DNA microarray occurs. The biotin molecules 
-      attached to the DNA duplexes are detected by using conjugates of 
-      streptavidin-horseradish peroxidase, which is then quantified by colorimetric 
-      detection of the enzyme. We have designed the required oligonucleotide probes and 
-      optimized the conditions of the membrane microarray-based hybridization analysis. 
-      Our method allows to identify 7 types of carbapenemase genes belonging to the 
-      molecular classes A, B, and D, and it also allows additional typing into genetic 
-      subgroups. The microarrays have been tested with the control strains producing the 
-      carbapenemase genes which have been characterized by sequencing. The developed 
-      method of hybridization analysis was employed to investigate clinical strains 
-      ofPseudomonasspp. andAcinetobacterspp., which produce carbapenemases of different 
-      classes based on phenotypic testing. All strains ofAcinetobacter baumaniiresistant 
-      to carbapenems were producers of two carbapenemase OXA-type genes (OXA-51, in 
-      combination with OXA-23 (1 strain), OXA-40 (5 strains), or OXA-58 (4 strains)). The 
-      metallo-β-lactamase VIM-2 type gene was detected in allPseudomonas aeruginosastrains 
-      resistant to carbapenems. Testing of carbapenem-sensitive strains did not detect any 
-      carbapenemase genes. The microarray method for the identification of carbapenemase 
-      genes is very accurate and highly productive. It can be employed in clinical 
-      microbiological laboratories for the identification and study of carbapenemase 
-      epidemiology.
-FAU - Ulyashova, Capital Em Cyrillic М
-AU  - Ulyashova CE
-AD  - Chemistry Faculty, Lomonosov Moscow State University.
-FAU - Khalilova, Yu I
-AU  - Khalilova YI
-FAU - Rubtsova, Capital Em Cyrillic Yu
-AU  - Rubtsova CE
-FAU - Edelstein, Capital Em Cyrillic V
-AU  - Edelstein CE
-FAU - Alexandrova, I А
-AU  - Alexandrova IА
-FAU - Egorov, Capital A Cyrillic М
-AU  - Egorov CA
-LA  - eng
-PT  - Journal Article
-TA  - Acta Naturae
-JT  - Acta naturae
-JID - 101525823
-PMC - PMC3347561
-OTO - NOTNLM
-OT  - DNA microarrays
-OT  - antibiotic resistance
-OT  - carbapenemases
-OT  - colorimetric detection
-OT  - horseradish peroxidase
-EDAT- 2010/07/01 00:00
-MHDA- 2010/07/01 00:01
-CRDT- 2012/06/01 06:00
-PHST- 2012/06/01 06:00 [entrez]
-PHST- 2010/07/01 00:00 [pubmed]
-PHST- 2010/07/01 00:01 [medline]
-PST - ppublish
-SO  - Acta Naturae. 2010 Jul;2(3):101-9.
-
-PMID- 26239991
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20160627
-LR  - 20181113
-IS  - 1098-6596 (Electronic)
+DCOM- 20010913
+LR  - 20181130
 IS  - 0066-4804 (Print)
+IS  - 1098-6596 (Electronic)
 IS  - 0066-4804 (Linking)
-VI  - 59
-IP  - 10
-DP  - 2015 Oct
-TI  - MALDI-TOF MS as a Tool To Detect a Nosocomial Outbreak of 
-      Extended-Spectrum-β-Lactamase- and ArmA Methyltransferase-Producing Enterobacter 
-      cloacae Clinical Isolates in Algeria.
-PG  - 6477-83
-LID - 10.1128/AAC.00615-15 [doi]
-AB  - Enterobacter cloacae is among the most important pathogens responsible for 
-      nosocomial infections and outbreaks. In this study, 77 Enterobacter isolates were 
-      collected: 27 isolates from Algerian hospitals (in Constantine, Annaba, and Skikda) 
-      and 50 isolates from Marseille, France. All strains were identified by 
-      matrix-assisted laser desorption ionization-time of flight mass spectrometry 
-      (MALDI-TOF MS). Antibiotic susceptibility testing was performed by the disk 
-      diffusion method. PCR was used to detect extended-spectrum-beta-lactamase 
-      (ESBL)-encoding, fluoroquinolone resistance-encoding, and aminoglycoside-modifying 
-      enzyme (AME) genes. Epidemiological typing was performed using MALDI-TOF MS with 
-      data mining approaches, along with multilocus sequence typing (MLST). Sixty-eight 
-      isolates (27 from Algeria, 41 from Marseille) were identified by MALDI-TOF MS as E. 
-      cloacae. Resistance to antibiotics in the Algerian isolates was significantly higher 
-      than that in the strains from Marseille, especially for beta-lactams and 
-      aminoglycosides. Eighteen of the 27 Algerian isolates and 11 of the 41 Marseille 
-      isolates possessed at least one ESBL-encoding gene: blaCTX-M and/or blaTEM. AME 
-      genes were detected in 20 of the 27 Algerian isolates and 8 of the 41 Marseille 
-      isolates [ant(2″)-Ia, aac(6')-Ib-cr, aadA1, aadA2, and armA]. Conjugation 
-      experiments showed that armA was carried on a transferable plasmid. MALDI-TOF typing 
-      showed three separate clusters according to the geographical distribution and 
-      species level. An MLST-based phylogenetic tree showed a clade of 14 E. cloacae 
-      isolates from a urology unit clustering together in the MALDI-TOF dendrogram, 
-      suggesting the occurrence of an outbreak in this unit. In conclusion, the ability of 
-      MALDI-TOF to biotype strains was confirmed, and surveillance measures should be 
-      implemented, especially for Algerian patients hospitalized in France.
-CI  - Copyright © 2015, American Society for Microbiology. All Rights Reserved.
-FAU - Khennouchi, Nour Chems el Houda
-AU  - Khennouchi NC
-AD  - Unité de Recherche sur les Maladies Infectieuses et Tropicales Émergentes (URMITE), 
-      UM63, CNRS 7278, IRD 198, INSERM 1095, IHU Méditerranée Infection, Faculté de 
-      Médecine et de Pharmacie, Aix-Marseille-Université, Marseille, France Laboratoire de 
-      Microbiologie et Biochimie Appliquée, Département de Biochimie, Faculté des 
-      Sciences, Université Badji Mokhtar, Annaba, Algeria.
-FAU - Loucif, Lotfi
-AU  - Loucif L
-AD  - Unité de Recherche sur les Maladies Infectieuses et Tropicales Émergentes (URMITE), 
-      UM63, CNRS 7278, IRD 198, INSERM 1095, IHU Méditerranée Infection, Faculté de 
-      Médecine et de Pharmacie, Aix-Marseille-Université, Marseille, France Laboratoire de 
-      Biotechnologie des Molécules Bioactives et de la Physiopathologie Cellulaire 
-      (LBMBPC), Université El Hadj Lakhdar, Batna, Algeria.
-FAU - Boutefnouchet, Nafissa
-AU  - Boutefnouchet N
-AD  - Laboratoire de Microbiologie et Biochimie Appliquée, Département de Biochimie, 
-      Faculté des Sciences, Université Badji Mokhtar, Annaba, Algeria.
-FAU - Allag, Hamoudi
-AU  - Allag H
-AD  - Etablissement Hospitalier Spécialisé d'Uro-Nephrologie, Daksi, Constantine, Algeria.
-FAU - Rolain, Jean-Marc
-AU  - Rolain JM
-AD  - Unité de Recherche sur les Maladies Infectieuses et Tropicales Émergentes (URMITE), 
-      UM63, CNRS 7278, IRD 198, INSERM 1095, IHU Méditerranée Infection, Faculté de 
-      Médecine et de Pharmacie, Aix-Marseille-Université, Marseille, France 
-      jean-marc.rolain@univ-amu.fr.
+VI  - 45
+IP  - 4
+DP  - 2001 Apr
+TI  - Novel carbapenem-hydrolyzing beta-lactamase, KPC-1, from a carbapenem-resistant 
+      strain of Klebsiella pneumoniae.
+PG  - 1151-61
+AB  - A Klebsiella pneumoniae isolate showing moderate to high-level imipenem and 
+      meropenem resistance was investigated. The MICs of both drugs were 16 microg/ml. The 
+      beta-lactamase activity against imipenem and meropenem was inhibited in the presence 
+      of clavulanic acid. The strain was also resistant to extended-spectrum 
+      cephalosporins and aztreonam. Isoelectric focusing studies demonstrated three 
+      beta-lactamases, with pIs of 7.2 (SHV-29), 6.7 (KPC-1), and 5.4 (TEM-1). The 
+      presence of bla(SHV) and bla(TEM) genes was confirmed by specific PCRs and DNA 
+      sequence analysis. Transformation and conjugation studies with Escherichia coli 
+      showed that the beta-lactamase with a pI of 6.7, KPC-1 (K. pneumoniae 
+      carbapenemase-1), was encoded on an approximately 50-kb nonconjugative plasmid. The 
+      gene, bla(KPC-1), was cloned in E. coli and shown to confer resistance to imipenem, 
+      meropenem, extended-spectrum cephalosporins, and aztreonam. The amino acid sequence 
+      of the novel carbapenem-hydrolyzing beta-lactamase, KPC-1, showed 45% identity to 
+      the pI 9.7 carbapenem-hydrolyzing beta-lactamase, Sme-1, from Serratia marcescens 
+      S6. Hydrolysis studies showed that purified KPC-1 hydrolyzed not only carbapenems 
+      but also penicillins, cephalosporins, and monobactams. KPC-1 had the highest 
+      affinity for meropenem. The kinetic studies also revealed that clavulanic acid and 
+      tazobactam inhibited KPC-1. An examination of the outer membrane proteins of the 
+      parent K. pneumoniae strain demonstrated that the strain does not express detectable 
+      levels of OmpK35 and OmpK37, although OmpK36 is present. We concluded that 
+      carbapenem resistance in K. pneumoniae strain 1534 is mainly due to production of a 
+      novel Bush group 2f, class A, carbapenem-hydrolyzing beta-lactamase, KPC-1, although 
+      alterations in porin expression may also play a role.
+FAU - Yigit, H
+AU  - Yigit H
+AD  - Hospital Infections Program, National Center for Infectious Diseases, Centers for 
+      Disease Control and Prevention, Atlanta, Georgia 30333, USA.
+FAU - Queenan, A M
+AU  - Queenan AM
+FAU - Anderson, G J
+AU  - Anderson GJ
+FAU - Domenech-Sanchez, A
+AU  - Domenech-Sanchez A
+FAU - Biddle, J W
+AU  - Biddle JW
+FAU - Steward, C D
+AU  - Steward CD
+FAU - Alberti, S
+AU  - Alberti S
+FAU - Bush, K
+AU  - Bush K
+FAU - Tenover, F C
+AU  - Tenover FC
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
-DEP - 20150803
 TA  - Antimicrob Agents Chemother
 JT  - Antimicrobial agents and chemotherapy
 JID - 0315061
-RN  - 0 (Anti-Bacterial Agents)
-RN  - EC 2.1.1.- (Methyltransferases)
+RN  - 0 (Bacterial Outer Membrane Proteins)
+RN  - 0 (Carbapenems)
+RN  - 0 (Thienamycins)
+RN  - 71OTZ9ZE0A (Imipenem)
+RN  - EC 3.5.2.- (beta-lactamase KPC-1)
 RN  - EC 3.5.2.6 (beta-Lactamases)
+RN  - EC 3.5.2.6 (beta-lactamase TEM-1)
+RN  - FV9J3JU8B1 (Meropenem)
 SB  - IM
-MH  - Algeria/epidemiology
-MH  - Anti-Bacterial Agents/therapeutic use
-MH  - Conjugation, Genetic
-MH  - Cross Infection/drug therapy/*epidemiology/microbiology/transmission
-MH  - *Disease Outbreaks
-MH  - Disk Diffusion Antimicrobial Tests
-MH  - Drug Resistance, Multiple, Bacterial
-MH  - Enterobacter cloacae/classification/drug effects/*genetics/isolation & purification
-MH  - Enterobacteriaceae Infections/drug therapy/*epidemiology/microbiology/transmission
-MH  - France/epidemiology
-MH  - Gene Expression
-MH  - Hospitals
-MH  - Humans
-MH  - Methyltransferases/*genetics/metabolism
-MH  - Multigene Family
-MH  - Multilocus Sequence Typing
+EIN - Antimicrob Agents Chemother. 2008 Feb;52(2):809
+MH  - Amino Acid Sequence
+MH  - Bacterial Outer Membrane Proteins/analysis
+MH  - Base Sequence
+MH  - Carbapenems/*pharmacology
+MH  - Cloning, Molecular
+MH  - Escherichia coli/genetics
+MH  - Imipenem/pharmacology
+MH  - Kinetics
+MH  - Klebsiella pneumoniae/chemistry/*drug effects/*enzymology
+MH  - Meropenem
+MH  - Microbial Sensitivity Tests
+MH  - Molecular Sequence Data
 MH  - Phylogeny
-MH  - Plasmids/chemistry/metabolism
-MH  - Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
-MH  - beta-Lactamases/*genetics/metabolism
-PMC - PMC4576089
-EDAT- 2015/08/05 06:00
-MHDA- 2016/06/28 06:00
-CRDT- 2015/08/05 06:00
-PHST- 2015/03/12 00:00 [received]
-PHST- 2015/07/26 00:00 [accepted]
-PHST- 2015/08/05 06:00 [entrez]
-PHST- 2015/08/05 06:00 [pubmed]
-PHST- 2016/06/28 06:00 [medline]
-AID - AAC.00615-15 [pii]
-AID - 00615-15 [pii]
-AID - 10.1128/AAC.00615-15 [doi]
+MH  - Sequence Homology, Amino Acid
+MH  - Substrate Specificity
+MH  - Thienamycins/pharmacology
+MH  - Transformation, Bacterial
+MH  - beta-Lactam Resistance
+MH  - beta-Lactamases/analysis/*genetics/metabolism
+PMC - PMC90438
+EDAT- 2001/03/21 10:00
+MHDA- 2001/09/14 10:01
+CRDT- 2001/03/21 10:00
+PHST- 2001/03/21 10:00 [pubmed]
+PHST- 2001/09/14 10:01 [medline]
+PHST- 2001/03/21 10:00 [entrez]
+AID - 0813 [pii]
+AID - 10.1128/AAC.45.4.1151-1161.2001 [doi]
 PST - ppublish
-SO  - Antimicrob Agents Chemother. 2015 Oct;59(10):6477-83. doi: 10.1128/AAC.00615-15. 
-      Epub 2015 Aug 3.
+SO  - Antimicrob Agents Chemother. 2001 Apr;45(4):1151-61. doi: 
+      10.1128/AAC.45.4.1151-1161.2001.
 
-PMID- 4612021
+PMID- 12037080
 OWN - NLM
 STAT- MEDLINE
-DCOM- 19750227
+DCOM- 20020813
 LR  - 20210526
-IS  - 0021-9193 (Print)
-IS  - 1098-5530 (Electronic)
-IS  - 0021-9193 (Linking)
-VI  - 120
-IP  - 3
-DP  - 1974 Dec
-TI  - R6K plasmid replication: influence of chromosomal genotype in minicell-producing 
-      strains of Escherichia coli K-12.
-PG  - 1387-400
-AB  - Alkaline sucrose velocity sedimentation and cesium chloride-ethidium bromide 
-      equilibrium centrifugation have been used to determine the number of copies per 
-      chromosomal equivalent of the relaxedly replicating R6K plasmid (a conjugative 
-      plasmid conferring ampicillin and streptomycin resistance) in two minicell-producing 
-      strains of Escherichia coli K-12. In one strain, the average number of covalently 
-      closed circular R6K molecules per chromosomal equivalent is 13 in log-phase and 35 
-      in stationary-phase cells. In the other strain, there is an average of six 
-      covalently closed circular R6K molecules per chromosomal equivalent in both log- and 
-      stationary-phase cells. Selection from this strain of spontaneously occurring 
-      mutants resistant to high concentrations of ampicillin has been accomplished and 
-      such mutants show a two- to threefold increase in the number of R6K copies per 
-      chromosomal equivalent. Relative to the parental strain, mutants display the 
-      following properties: (i) elevated streptomycin resistance, (ii) a 10-fold increase 
-      in R6K conjugal transfer, (iii) a 10-fold increase in the amount of R6K plasmid 
-      deoxyribonucleic acid segregated into minicells, and (iv) a two- to threefold 
-      increase in R6K-specified beta-lactamase. The mutation(s) responsible for the 
-      increase in the number of R6K molecules per chromosomal equivalent is located on the 
-      bacterial chromosome. No R6K-linked mutations conferring the above phenotypes have 
-      been obtained. The mutations are presumed to be in chromosomal genes which play a 
-      role in the regulation of R6K replication in this strain.
-FAU - Macrina, F L
-AU  - Macrina FL
-FAU - Weatherly, G G
-AU  - Weatherly GG
-FAU - Curtiss, R 3rd
-AU  - Curtiss R 3rd
+IS  - 0095-1137 (Print)
+IS  - 1098-660X (Electronic)
+IS  - 0095-1137 (Linking)
+VI  - 40
+IP  - 6
+DP  - 2002 Jun
+TI  - Detection of plasmid-mediated AmpC beta-lactamase genes in clinical isolates by 
+      using multiplex PCR.
+PG  - 2153-62
+AB  - Therapeutic options for infections caused by gram-negative organisms expressing 
+      plasmid-mediated AmpC beta-lactamases are limited because these organisms are 
+      usually resistant to all the beta-lactam antibiotics, except for cefepime, 
+      cefpirome, and the carbapenems. These organisms are a major concern in nosocomial 
+      infections and should therefore be monitored in surveillance studies. Six families 
+      of plasmid-mediated AmpC beta-lactamases have been identified, but no phenotypic 
+      test can differentiate among them, a fact which creates problems for surveillance 
+      and epidemiology studies. This report describes the development of a multiplex PCR 
+      for the purpose of identifying family-specific AmpC beta-lactamase genes within 
+      gram-negative pathogens. The PCR uses six sets of ampC-specific primers resulting in 
+      amplicons that range from 190 bp to 520 bp and that are easily distinguished by gel 
+      electrophoresis. ampC multiplex PCR differentiated the six plasmid-mediated 
+      ampC-specific families in organisms such as Klebsiella pneumoniae, Escherichia coli, 
+      Proteus mirabilis, and Salmonella enterica serovar Typhimurium. Family-specific 
+      primers did not amplify genes from the other families of ampC genes. Furthermore, 
+      this PCR-based assay differentiated multiple genes within one reaction. In addition, 
+      WAVE technology, a high-pressure liquid chromatography-based separation system, was 
+      used as a way of decreasing analysis time and increasing the sensitivity of 
+      multiple-gene assays. In conclusion, a multiplex PCR technique was developed for 
+      identifying family-specific ampC genes responsible for AmpC beta-lactamase 
+      expression in organisms with or without a chromosomal AmpC beta-lactamase gene.
+FAU - Pérez-Pérez, F Javier
+AU  - Pérez-Pérez FJ
+AD  - Center for Research in Anti-Infectives and Biotechnology, Department of Medical 
+      Microbiology and Immunology, School of Medicine, Creighton University, Omaha, 
+      Nebraska 68178, USA.
+FAU - Hanson, Nancy D
+AU  - Hanson ND
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - J Clin Microbiol
+JT  - Journal of clinical microbiology
+JID - 7505564
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (DNA Primers)
+RN  - EC 3.5.2.6 (AmpC beta-lactamases)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+SB  - IM
+MH  - *Bacterial Proteins
+MH  - Chromatography, High Pressure Liquid
+MH  - DNA Primers
+MH  - Gram-Negative Bacteria/*enzymology
+MH  - Humans
+MH  - Molecular Sequence Data
+MH  - Plasmids/genetics
+MH  - Polymerase Chain Reaction/*methods
+MH  - Sensitivity and Specificity
+MH  - Sequence Analysis, DNA
+MH  - Species Specificity
+MH  - beta-Lactam Resistance
+MH  - beta-Lactamases/*genetics/metabolism
+PMC - PMC130804
+EDAT- 2002/05/31 10:00
+MHDA- 2002/08/14 10:01
+CRDT- 2002/05/31 10:00
+PHST- 2002/05/31 10:00 [pubmed]
+PHST- 2002/08/14 10:01 [medline]
+PHST- 2002/05/31 10:00 [entrez]
+AID - 1586 [pii]
+AID - 10.1128/JCM.40.6.2153-2162.2002 [doi]
+PST - ppublish
+SO  - J Clin Microbiol. 2002 Jun;40(6):2153-62. doi: 10.1128/JCM.40.6.2153-2162.2002.
+
+PMID- 8665470
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19960805
+LR  - 20210526
+IS  - 0893-8512 (Print)
+IS  - 1098-6618 (Electronic)
+IS  - 0893-8512 (Linking)
+VI  - 8
+IP  - 4
+DP  - 1995 Oct
+TI  - beta-Lactamases in laboratory and clinical resistance.
+PG  - 557-84
+AB  - beta-Lactamases are the commonest single cause of bacterial resistance to 
+      beta-lactam antibiotics. Numerous chromosomal and plasmid-mediated types are known 
+      and may be classified by their sequences or phenotypic properties. The ability of a 
+      beta-lactamase to cause resistance varies with its activity, quantity, and cellular 
+      location and, for gram-negative organisms, the permeability of the producer strain. 
+      beta-Lactamases sometimes cause obvious resistance to substrate drugs in routine 
+      tests; often, however, these enzymes reduce susceptibility without causing 
+      resistance at current, pharmacologically chosen breakpoints. This review considers 
+      the ability of the prevalent beta-lactamases to cause resistance to widely used 
+      beta-lactams, whether resistance is accurately reflected in routine tests, and the 
+      extent to which the antibiogram for an organism can be used to predict the type of 
+      beta-lactamase that it produces.
+FAU - Livermore, D M
+AU  - Livermore DM
+AD  - Department of Medical Microbiology, London Hospital Medical College, United Kingdom.
 LA  - eng
 PT  - Journal Article
-TA  - J Bacteriol
-JT  - Journal of bacteriology
-JID - 2985120R
-RN  - 0 (DNA, Bacterial)
-RN  - 0 (Penicillins)
-RN  - 10028-17-8 (Tritium)
-RN  - EC 3.5.2.- (Penicillinase)
-RN  - Y45QSO73OB (Streptomycin)
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+TA  - Clin Microbiol Rev
+JT  - Clinical microbiology reviews
+JID - 8807282
+RN  - EC 3.5.2.6 (beta-Lactamases)
 SB  - IM
-MH  - Cell-Free System
-MH  - Centrifugation, Density Gradient
-MH  - Chromosomes, Bacterial
-MH  - Conjugation, Genetic
-MH  - DNA Replication
-MH  - DNA, Bacterial/*biosynthesis
-MH  - Escherichia coli/drug effects/*metabolism
-MH  - *Extrachromosomal Inheritance
-MH  - *Genotype
-MH  - Mutation
-MH  - *Penicillin Resistance
-MH  - Penicillinase/metabolism
-MH  - Penicillins/pharmacology
-MH  - Streptomycin/pharmacology
-MH  - Tritium
-PMC - PMC245926
-EDAT- 1974/12/01 00:00
-MHDA- 1974/12/01 00:01
-CRDT- 1974/12/01 00:00
-PHST- 1974/12/01 00:00 [pubmed]
-PHST- 1974/12/01 00:01 [medline]
-PHST- 1974/12/01 00:00 [entrez]
-AID - 10.1128/jb.120.3.1387-1400.1974 [doi]
+MH  - Enterobacteriaceae/enzymology/genetics
+MH  - Gram-Negative Bacteria/*enzymology/genetics
+MH  - Gram-Positive Bacteria/*enzymology/genetics
+MH  - *beta-Lactam Resistance/genetics
+MH  - beta-Lactamases/classification/genetics/isolation & purification/*physiology
+PMC - PMC172876
+EDAT- 1995/10/01 00:00
+MHDA- 1995/10/01 00:01
+CRDT- 1995/10/01 00:00
+PHST- 1995/10/01 00:00 [pubmed]
+PHST- 1995/10/01 00:01 [medline]
+PHST- 1995/10/01 00:00 [entrez]
+AID - 10.1128/CMR.8.4.557 [doi]
 PST - ppublish
-SO  - J Bacteriol. 1974 Dec;120(3):1387-400. doi: 10.1128/jb.120.3.1387-1400.1974.
+SO  - Clin Microbiol Rev. 1995 Oct;8(4):557-84. doi: 10.1128/CMR.8.4.557.
+
+PMID- 33117628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210811
+LR  - 20210811
+IS  - 2191-1363 (Print)
+IS  - 2191-1363 (Electronic)
+IS  - 2191-1363 (Linking)
+VI  - 9
+IP  - 10
+DP  - 2020 Oct
+TI  - Fluorescent Mesoporous Nanoparticles for β-Lactamase Screening Assays.
+PG  - 1074-1081
+LID - 10.1002/open.202000221 [doi]
+AB  - We present a sensitive and rapid screening method for the determination of 
+      β-lactamase activity of antibiotic-resistant bacteria, by designing a pH-sensitive 
+      fluorescent dye-doped mesoporous silica nanoparticle encapsulated with penicillin G 
+      as a substrate. When penicillin G was hydrolysed by β-lactamase and converted into 
+      penicilloic acid, the acidic environment resulted in fluorescence quenching of the 
+      dye. The dye-doped mesoporous nanoparticles not only enhanced the 
+      β-lactamase-catalyzed reaction rate but also stablized the substrate, penicillin G, 
+      which degrades into penicilloic acid in a water solution without β-lactamase. 
+      Twentyfive clinical bacterial samples were tested and the antibiotic resistant and 
+      susceptible strains were identified. The proposed method may detect the presence of 
+      β -lactamases of clinically relevant samples in less than 1 hour. Moreover, the 
+      detection limit of β-lactamase activity was as low as 7.8×10(-4) U/mL, which was 
+      determined within two hours.
+CI  - © 2020 The Authors. Published by Wiley-VCH GmbH.
+FAU - Tummala, Srikrishna
+AU  - Tummala S
+AD  - Department of Chemistry, National Dong Hwa University, Hualien, 974, Taiwan, 
+      Republic of China.
+FAU - Huang, Wei-An
+AU  - Huang WA
+AD  - Department of Chemistry, National Dong Hwa University, Hualien, 974, Taiwan, 
+      Republic of China.
+FAU - Wu, Bo-Hong
+AU  - Wu BH
+AD  - Department of Chemistry, National Dong Hwa University, Hualien, 974, Taiwan, 
+      Republic of China.
+FAU - Chang, Kai-Chih
+AU  - Chang KC
+AD  - Department of Laboratory Medicine and Biotechnology, Tzu Chi University, Hualien, 
+      970, Taiwan, Republic of China.
+FAU - Ho, Yen-Peng
+AU  - Ho YP
+AUID- ORCID: 0000-0003-4345-9455
+AD  - Department of Chemistry, National Dong Hwa University, Hualien, 974, Taiwan, 
+      Republic of China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20201023
+TA  - ChemistryOpen
+JT  - ChemistryOpen
+JID - 101594811
+RN  - 0 (Fluorescent Dyes)
+RN  - 059QF0KO0R (Water)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+RN  - Q42T66VG0C (Penicillin G)
+MH  - Biocatalysis
+MH  - Enzyme Assays/*methods
+MH  - Fluorescent Dyes/*chemistry
+MH  - Kinetics
+MH  - Nanoparticles/*chemistry
+MH  - Penicillin G/chemistry
+MH  - Porosity
+MH  - Time Factors
+MH  - Water/chemistry
+MH  - beta-Lactamases/chemistry/*metabolism
+PMC - PMC7582675
+OTO - NOTNLM
+OT  - *antibiotic-resistant bacteria
+OT  - *dye-doped mesoporous nanoparticles
+OT  - *fluorescence spectroscopy
+OT  - *penicillin G
+OT  - *β-lactams
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/10/30 06:00
+MHDA- 2020/10/30 06:01
+CRDT- 2020/10/29 05:53
+PHST- 2020/08/07 00:00 [received]
+PHST- 2020/09/17 00:00 [revised]
+PHST- 2020/10/29 05:53 [entrez]
+PHST- 2020/10/30 06:00 [pubmed]
+PHST- 2020/10/30 06:01 [medline]
+AID - OPEN202000221 [pii]
+AID - 10.1002/open.202000221 [doi]
+PST - epublish
+SO  - ChemistryOpen. 2020 Oct 23;9(10):1074-1081. doi: 10.1002/open.202000221. eCollection 
+      2020 Oct.
+
+PMID- 32708513
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210305
+LR  - 20210305
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 21
+IP  - 14
+DP  - 2020 Jul 18
+TI  - Molecular Mechanisms, Epidemiology, and Clinical Importance of β-Lactam Resistance 
+      in Enterobacteriaceae.
+LID - 10.3390/ijms21145090 [doi]
+LID - 5090
+AB  - Despite being members of gut microbiota, Enterobacteriaceae are associated with many 
+      severe infections such as bloodstream infections. The β-lactam drugs have been the 
+      cornerstone of antibiotic therapy for such infections. However, the overuse of these 
+      antibiotics has contributed to select β-lactam-resistant Enterobacteriaceae 
+      isolates, so that β-lactam resistance is nowadays a major concern worldwide. The 
+      production of enzymes that inactivate β-lactams, mainly extended-spectrum 
+      β-lactamases and carbapenemases, can confer multidrug resistance patterns that 
+      seriously compromise therapeutic options. Further, β-lactam resistance may result in 
+      increases in the drug toxicity, mortality, and healthcare costs associated with 
+      Enterobacteriaceae infections. Here, we summarize the updated evidence about the 
+      molecular mechanisms and epidemiology of β-lactamase-mediated β-lactam resistance in 
+      Enterobacteriaceae, and their potential impact on clinical outcomes of 
+      β-lactam-resistant Enterobacteriaceae infections.
+FAU - De Angelis, Giulia
+AU  - De Angelis G
+AD  - Dipartimento di Scienze Biotecnologiche di Base, Cliniche Intensivologiche e 
+      Perioperatorie, Università Cattolica del Sacro Cuore, 00168 Rome, Italy.
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico 
+      Universitario A. Gemelli IRCCS, 00168 Rome, Italy.
+FAU - Del Giacomo, Paola
+AU  - Del Giacomo P
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico 
+      Universitario A. Gemelli IRCCS, 00168 Rome, Italy.
+FAU - Posteraro, Brunella
+AU  - Posteraro B
+AD  - Dipartimento di Scienze Biotecnologiche di Base, Cliniche Intensivologiche e 
+      Perioperatorie, Università Cattolica del Sacro Cuore, 00168 Rome, Italy.
+AD  - Dipartimento di Scienze Gastroenterologiche, Endocrino-Metaboliche e 
+      Nefro-Urologiche, Fondazione Policlinico Universitario A. Gemelli IRCCS, 00168 Rome, 
+      Italy.
+FAU - Sanguinetti, Maurizio
+AU  - Sanguinetti M
+AD  - Dipartimento di Scienze Biotecnologiche di Base, Cliniche Intensivologiche e 
+      Perioperatorie, Università Cattolica del Sacro Cuore, 00168 Rome, Italy.
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico 
+      Universitario A. Gemelli IRCCS, 00168 Rome, Italy.
+FAU - Tumbarello, Mario
+AU  - Tumbarello M
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico 
+      Universitario A. Gemelli IRCCS, 00168 Rome, Italy.
+AD  - Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 00168 
+      Rome, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200718
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (beta-Lactams)
+RN  - EC 3.5.2.6 (beta-Lactamases)
+RN  - EC 3.5.2.6 (carbapenemase)
+SB  - IM
+MH  - Bacterial Proteins/metabolism
+MH  - Enterobacteriaceae/*drug effects/*enzymology
+MH  - Enterobacteriaceae Infections/*drug therapy/epidemiology
+MH  - Humans
+MH  - *beta-Lactam Resistance
+MH  - beta-Lactamases/chemistry/*metabolism
+MH  - beta-Lactams/*therapeutic use
+PMC - PMC7404273
+OTO - NOTNLM
+OT  - Enterobacteriaceae
+OT  - molecular resistance
+OT  - β-lactam drugs
+OT  - β-lactamase
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/07/28 06:00
+MHDA- 2021/03/06 06:00
+CRDT- 2020/07/26 06:00
+PHST- 2020/06/27 00:00 [received]
+PHST- 2020/07/13 00:00 [revised]
+PHST- 2020/07/17 00:00 [accepted]
+PHST- 2020/07/26 06:00 [entrez]
+PHST- 2020/07/28 06:00 [pubmed]
+PHST- 2021/03/06 06:00 [medline]
+AID - ijms21145090 [pii]
+AID - ijms-21-05090 [pii]
+AID - 10.3390/ijms21145090 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2020 Jul 18;21(14):5090. doi: 10.3390/ijms21145090.
